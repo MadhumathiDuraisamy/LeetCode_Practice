@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0020-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3447-clear-digits](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3447-clear-digits) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0735-asteroid-collision](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0739-daily-temperatures) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Dynamic Programming
 |  |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
