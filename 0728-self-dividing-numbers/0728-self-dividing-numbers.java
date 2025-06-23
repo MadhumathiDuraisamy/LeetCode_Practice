@@ -15,10 +15,7 @@ class Solution {
         }
         while(n!=0){
             int d=n%10;
-            if(d==0){
-                return false;
-            }
-            if(num%d!=0){
+            if(d==0||num%d!=0){
                 return false;
             }
             n/=10;
