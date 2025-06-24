@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0506-relative-ranks) |
 | [0735-asteroid-collision](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0792-binary-search) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0506-relative-ranks](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0506-relative-ranks) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Counting
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0506-relative-ranks](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0506-relative-ranks) |
 ## Quickselect
 |  |
 | ------- |
