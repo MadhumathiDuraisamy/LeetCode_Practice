@@ -8,9 +8,9 @@ class Solution {
             int val=(int)Math.sqrt(q.poll());
             q.add(val);
         }
-        long res=0;
-        for(long n:q){
-            res+=n;
+        long res = 0;
+        while (!q.isEmpty()) {
+            res += q.poll();
         }
         return res;
     }
