@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [3447-clear-digits](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3447-clear-digits) |
 ## Array
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0792-binary-search) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2634-minimum-common-value](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2634-minimum-common-value) |
 | [2679-count-distinct-numbers-on-board](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2679-count-distinct-numbers-on-board) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0874-backspace-string-compare) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2679-count-distinct-numbers-on-board](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2679-count-distinct-numbers-on-board) |
 | [3447-clear-digits](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3447-clear-digits) |
 ## Sorting
@@ -88,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0728-self-dividing-numbers) |
 | [2679-count-distinct-numbers-on-board](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2679-count-distinct-numbers-on-board) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
