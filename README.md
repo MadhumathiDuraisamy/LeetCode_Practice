@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0948-sort-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2634-minimum-common-value](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2634-minimum-common-value) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0948-sort-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Counting
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0948-sort-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Quickselect
 |  |
