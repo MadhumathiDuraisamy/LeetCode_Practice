@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0506-relative-ranks) |
 | [0735-asteroid-collision](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0739-daily-temperatures) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0506-relative-ranks) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0948-sort-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
