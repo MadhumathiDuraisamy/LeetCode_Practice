@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0506-relative-ranks) |
+| [0566-reshape-the-matrix](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0739-daily-temperatures) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0874-backspace-string-compare) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0176-second-highest-salary) |
 | [0577-employee-bonus](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0595-big-countries) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
