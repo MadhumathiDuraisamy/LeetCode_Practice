@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0908-middle-of-the-linked-list) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0041-first-missing-positive) |
+| [0075-sort-colors](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0238-product-of-array-except-self) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0948-sort-an-array) |
