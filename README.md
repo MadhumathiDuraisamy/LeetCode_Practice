@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0061-rotate-list) |
 | [0344-reverse-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0874-backspace-string-compare) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0011-container-with-most-water) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Memoization
 |  |
