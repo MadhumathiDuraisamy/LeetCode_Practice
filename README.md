@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0742-to-lower-case) |
 | [0874-backspace-string-compare](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3447-clear-digits](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3447-clear-digits) |
 ## Stack
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Monotonic Stack
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2634-minimum-common-value](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2634-minimum-common-value) |
 | [2679-count-distinct-numbers-on-board](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2679-count-distinct-numbers-on-board) |
 ## Binary Search
