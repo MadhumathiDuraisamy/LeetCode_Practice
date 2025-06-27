@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2634-minimum-common-value) |
 | [2679-count-distinct-numbers-on-board](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2679-count-distinct-numbers-on-board) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3723-sum-of-good-numbers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3723-sum-of-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
