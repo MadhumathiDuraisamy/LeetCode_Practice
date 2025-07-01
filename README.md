@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0908-middle-of-the-linked-list) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0392-is-subsequence) |
 | [0742-to-lower-case](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0742-to-lower-case) |
 | [0874-backspace-string-compare](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0392-is-subsequence) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Simulation
 |  |
