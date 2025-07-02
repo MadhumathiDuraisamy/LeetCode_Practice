@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0739-daily-temperatures) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -251,20 +252,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0695-max-area-of-island) |
 | [0861-flipping-an-image](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0861-flipping-an-image) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
