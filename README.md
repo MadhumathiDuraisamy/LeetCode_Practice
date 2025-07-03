@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2634-minimum-common-value) |
 | [2679-count-distinct-numbers-on-board](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2679-count-distinct-numbers-on-board) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2737-row-with-maximum-ones](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2737-row-with-maximum-ones) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3723-sum-of-good-numbers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3723-sum-of-good-numbers) |
 ## Dynamic Programming
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0861-flipping-an-image) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2737-row-with-maximum-ones](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2737-row-with-maximum-ones) |
 ## Depth-First Search
 |  |
 | ------- |
