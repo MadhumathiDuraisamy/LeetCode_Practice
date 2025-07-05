@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0566-reshape-the-matrix) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0735-asteroid-collision) |
