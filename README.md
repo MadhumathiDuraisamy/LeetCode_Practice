@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1205-defanging-an-ip-address) |
+| [1651-shuffle-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1651-shuffle-string) |
 | [1751-slowest-key](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1751-slowest-key) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1603-running-sum-of-1d-array) |
+| [1651-shuffle-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1651-shuffle-string) |
 | [1751-slowest-key](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1751-slowest-key) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1802-number-of-students-unable-to-eat-lunch) |
