@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0392-is-subsequence) |
+| [0500-keyboard-row](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0504-base-7) |
 | [0742-to-lower-case](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0742-to-lower-case) |
 | [0874-backspace-string-compare](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0874-backspace-string-compare) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0238-product-of-array-except-self) |
 | [0463-island-perimeter](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0566-reshape-the-matrix) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0500-keyboard-row) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2486-most-frequent-even-element](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2486-most-frequent-even-element) |
