@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2825-minimize-string-length](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2825-minimize-string-length) |
 | [3447-clear-digits](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3447-clear-digits) |
 | [3617-find-the-original-typed-string-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3617-find-the-original-typed-string-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3811-reverse-degree-of-a-string) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2486-most-frequent-even-element) |
 | [2634-minimum-common-value](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2634-minimum-common-value) |
 | [2679-count-distinct-numbers-on-board](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2679-count-distinct-numbers-on-board) |
+| [2825-minimize-string-length](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2825-minimize-string-length) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Binary Search
 |  |
