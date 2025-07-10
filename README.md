@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3447-clear-digits](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3447-clear-digits) |
 | [3617-find-the-original-typed-string-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3617-find-the-original-typed-string-i) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2486-most-frequent-even-element](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2486-most-frequent-even-element) |
 | [2634-minimum-common-value](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2634-minimum-common-value) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Database
 |  |
 | ------- |
