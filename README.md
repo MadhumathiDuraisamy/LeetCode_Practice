@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2634-minimum-common-value](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2634-minimum-common-value) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2737-row-with-maximum-ones](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2737-row-with-maximum-ones) |
 | [3194-find-words-containing-character](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3194-find-words-containing-character) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3723-sum-of-good-numbers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3723-sum-of-good-numbers) |
 ## Dynamic Programming
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Counting
 |  |
 | ------- |
