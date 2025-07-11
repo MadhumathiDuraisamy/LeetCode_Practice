@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1899-count-items-matching-a-rule](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1899-count-items-matching-a-rule) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Counting
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2634-minimum-common-value](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2634-minimum-common-value) |
 ## Math
 |  |
