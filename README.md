@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2486-most-frequent-even-element](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2486-most-frequent-even-element) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2634-minimum-common-value](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2634-minimum-common-value) |
 | [2679-count-distinct-numbers-on-board](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2679-count-distinct-numbers-on-board) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0728-self-dividing-numbers) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2679-count-distinct-numbers-on-board](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2679-count-distinct-numbers-on-board) |
 ## Queue
 |  |
