@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1205-defanging-an-ip-address) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1651-shuffle-string) |
 | [1751-slowest-key](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1751-slowest-key) |
