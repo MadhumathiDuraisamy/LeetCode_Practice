@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0566-reshape-the-matrix) |
+| [0643-maximum-average-subarray-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0733-flood-fill) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
