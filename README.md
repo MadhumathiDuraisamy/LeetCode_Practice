@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0371-sum-of-two-integers) |
 | [0504-base-7](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0728-self-dividing-numbers) |
+| [1610-xor-operation-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1610-xor-operation-in-an-array) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2679-count-distinct-numbers-on-board](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2679-count-distinct-numbers-on-board) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0861-flipping-an-image) |
 | [1054-complement-of-base-10-integer](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1054-complement-of-base-10-integer) |
+| [1610-xor-operation-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1610-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
