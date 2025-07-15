@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2825-minimize-string-length](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2825-minimize-string-length) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2486-most-frequent-even-element](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2486-most-frequent-even-element) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Monotonic Stack
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0500-keyboard-row) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2486-most-frequent-even-element](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2486-most-frequent-even-element) |
 | [2634-minimum-common-value](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2634-minimum-common-value) |
 | [2679-count-distinct-numbers-on-board](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2679-count-distinct-numbers-on-board) |
