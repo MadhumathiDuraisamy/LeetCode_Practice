@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2825-minimize-string-length](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2825-minimize-string-length) |
 | [3194-find-words-containing-character](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3194-find-words-containing-character) |
+| [3396-valid-word](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3447-clear-digits) |
 | [3617-find-the-original-typed-string-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3617-find-the-original-typed-string-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3811-reverse-degree-of-a-string) |
