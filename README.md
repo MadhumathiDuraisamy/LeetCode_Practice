@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0238-product-of-array-except-self) |
+| [0414-third-maximum-number](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0500-keyboard-row) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0414-third-maximum-number](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0506-relative-ranks) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0948-sort-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0948-sort-an-array) |
