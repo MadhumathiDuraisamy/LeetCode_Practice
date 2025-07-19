@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0733-flood-fill) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -428,8 +430,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
 | [0079-word-search](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0079-word-search) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
