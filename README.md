@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2679-count-distinct-numbers-on-board) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2737-row-with-maximum-ones](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2737-row-with-maximum-ones) |
+| [3164-last-visited-integers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3164-last-visited-integers) |
 | [3194-find-words-containing-character](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3194-find-words-containing-character) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2679-count-distinct-numbers-on-board) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3164-last-visited-integers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3164-last-visited-integers) |
 | [3447-clear-digits](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3447-clear-digits) |
 | [3811-reverse-degree-of-a-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3811-reverse-degree-of-a-string) |
 ## Sorting
