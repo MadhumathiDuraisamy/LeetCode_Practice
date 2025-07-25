@@ -19,18 +19,6 @@ class Node {
 
 class Solution {
     public List<Integer> postorder(Node root) {
-        // List<Integer> res=new ArrayList<>();
-        // if(root==null) return res;
-        // Stack<Node> st=new Stack<>();
-        // st.add(root);
-        // while(!st.isEmpty()){
-        //     Node temp=st.pop();
-        //     res.addFirst(temp.val);
-        //     for(Node child:temp.children){
-        //         st.push(child);
-        //     }
-        // }
-        // return res;
         List<Integer> res=new ArrayList<>();
         postOrder(root,res);
         return res;
