@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0739-daily-temperatures) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0733-flood-fill) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
