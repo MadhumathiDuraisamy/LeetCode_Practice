@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1036-rotting-oranges) |
+| [1039-find-the-town-judge](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1039-find-the-town-judge) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1603-running-sum-of-1d-array) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0500-keyboard-row) |
+| [1039-find-the-town-judge](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1039-find-the-town-judge) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0210-course-schedule-ii) |
+| [1039-find-the-town-judge](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1039-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
