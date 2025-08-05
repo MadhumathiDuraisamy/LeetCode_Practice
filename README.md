@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3723-sum-of-good-numbers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3723-sum-of-good-numbers) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3164-last-visited-integers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3164-last-visited-integers) |
 | [3447-clear-digits](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3447-clear-digits) |
+| [3790-fruits-into-baskets-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3811-reverse-degree-of-a-string) |
 ## Sorting
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2634-minimum-common-value](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2634-minimum-common-value) |
+| [3790-fruits-into-baskets-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -474,4 +477,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0975-range-sum-of-bst) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
