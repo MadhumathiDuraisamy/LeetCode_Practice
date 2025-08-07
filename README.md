@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0518-coin-change-ii) |
+| [1013-fibonacci-number](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1013-fibonacci-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Simulation
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0371-sum-of-two-integers) |
 | [0504-base-7](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0728-self-dividing-numbers) |
+| [1013-fibonacci-number](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1610-xor-operation-in-an-array) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0002-add-two-numbers) |
+| [1013-fibonacci-number](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1013-fibonacci-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## String Matching
 |  |
