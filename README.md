@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0518-coin-change-ii) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0371-sum-of-two-integers) |
 | [0504-base-7](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0728-self-dividing-numbers) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1013-fibonacci-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## String Matching
