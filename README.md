@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-top-travellers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1541-top-travellers) |
 | [1670-patients-with-a-condition](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1734-bank-account-summary-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1734-bank-account-summary-ii) |
 | [1801-average-time-of-process-per-machine](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1801-average-time-of-process-per-machine) |
 | [2024-calculate-special-bonus](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2024-calculate-special-bonus) |
 ## Matrix
