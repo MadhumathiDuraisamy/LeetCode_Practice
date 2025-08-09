@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0371-sum-of-two-integers) |
 | [0504-base-7](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0728-self-dividing-numbers) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0861-flipping-an-image) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
