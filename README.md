@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0061-rotate-list) |
+| [0092-reverse-linked-list-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0908-middle-of-the-linked-list](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
