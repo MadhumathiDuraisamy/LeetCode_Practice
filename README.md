@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0463-island-perimeter) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0220-contains-duplicate-iii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0220-contains-duplicate-iii) |
 | [0414-third-maximum-number](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0506-relative-ranks) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0220-contains-duplicate-iii) |
 | [0948-sort-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0220-contains-duplicate-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
@@ -504,5 +508,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0220-contains-duplicate-iii) |
 | [3790-fruits-into-baskets-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
