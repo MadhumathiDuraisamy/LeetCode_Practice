@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0371-sum-of-two-integers) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1013-fibonacci-number) |
 ## Sliding Window
