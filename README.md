@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0518-coin-change-ii) |
 | [0566-reshape-the-matrix](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0695-max-area-of-island) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0575-distribute-candies) |
 | [1039-find-the-town-judge](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1039-find-the-town-judge) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1960-check-if-the-sentence-is-pangram) |
