@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0518-coin-change-ii) |
 | [1013-fibonacci-number](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1013-fibonacci-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Simulation
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2679-count-distinct-numbers-on-board](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2679-count-distinct-numbers-on-board) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0239-sliding-window-maximum) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Divide and Conquer
 |  |
 | ------- |
