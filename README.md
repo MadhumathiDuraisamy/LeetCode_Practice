@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0500-keyboard-row](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0504-base-7) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1013-fibonacci-number) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0861-flipping-an-image) |
 | [1054-complement-of-base-10-integer](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1054-complement-of-base-10-integer) |
