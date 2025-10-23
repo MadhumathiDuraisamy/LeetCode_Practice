@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3447-clear-digits) |
 | [3617-find-the-original-typed-string-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3617-find-the-original-typed-string-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3811-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3164-last-visited-integers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3164-last-visited-integers) |
 | [3447-clear-digits](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3447-clear-digits) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3811-reverse-degree-of-a-string) |
 ## Sorting
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2679-count-distinct-numbers-on-board) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Queue
 |  |
 | ------- |
@@ -546,4 +549,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0239-sliding-window-maximum) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
