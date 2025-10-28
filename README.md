@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3723-sum-of-good-numbers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3723-sum-of-good-numbers) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3790-fruits-into-baskets-ii) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3164-last-visited-integers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3164-last-visited-integers) |
 | [3447-clear-digits](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3447-clear-digits) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3811-reverse-degree-of-a-string) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1603-running-sum-of-1d-array) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Greedy
 |  |
 | ------- |
