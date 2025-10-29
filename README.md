@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2679-count-distinct-numbers-on-board) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Queue
 |  |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0861-flipping-an-image) |
 | [1054-complement-of-base-10-integer](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1054-complement-of-base-10-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1610-xor-operation-in-an-array) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |
