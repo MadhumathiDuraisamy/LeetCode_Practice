@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0836-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1610-xor-operation-in-an-array) |
@@ -577,4 +578,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2169-simple-bank-system) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
