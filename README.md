@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0220-contains-duplicate-iii) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0204-count-primes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Design
 |  |
@@ -582,4 +585,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0836-rectangle-overlap) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
