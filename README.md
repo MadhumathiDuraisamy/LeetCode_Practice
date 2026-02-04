@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1447-simplified-fractions](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1447-simplified-fractions) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1651-shuffle-string) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0836-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1447-simplified-fractions](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1447-simplified-fractions) |
 | [1610-xor-operation-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1610-xor-operation-in-an-array) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0204-count-primes) |
+| [1447-simplified-fractions](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1447-simplified-fractions) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Design
 |  |
