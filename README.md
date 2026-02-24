@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0693-binary-number-with-alternating-bits) |
 | [0861-flipping-an-image](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0861-flipping-an-image) |
 | [1054-complement-of-base-10-integer](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1054-complement-of-base-10-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1610-xor-operation-in-an-array) |
