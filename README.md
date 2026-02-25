@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0908-middle-of-the-linked-list) |
+| [0942-di-string-match](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0942-di-string-match) |
 | [0958-sort-array-by-parity-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0958-sort-array-by-parity-ii) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0742-to-lower-case](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0742-to-lower-case) |
 | [0874-backspace-string-compare](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0874-backspace-string-compare) |
+| [0942-di-string-match](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0942-di-string-match) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0942-di-string-match](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0942-di-string-match) |
 | [0948-sort-an-array](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0958-sort-array-by-parity-ii) |
 | [1036-rotting-oranges](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/1036-rotting-oranges) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0045-jump-game-ii) |
+| [0942-di-string-match](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/0942-di-string-match) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MadhumathiDuraisamy/LeetCode_Practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Memoization
